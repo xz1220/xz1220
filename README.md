@@ -1,6 +1,6 @@
-# Daniel Xing | AI Agent Architect
+# Daniel Xing
 
-> Building the future of creative AI at ByteDance. Tech lead for Dreamina Agent, transforming how users create with AI.
+> Tech lead for Dreamina Agent at ByteDance, working on AI-powered creative tools.
 
 [![AI Agent](https://img.shields.io/badge/Focus-AI%20Agents-blueviolet)](https://)
 [![Multimodal](https://img.shields.io/badge/Domain-Multimodal%20Generation-orange)](https://)
