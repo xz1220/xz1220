@@ -27,25 +27,6 @@ A one-stop AI creative platform helping users achieve creative goals end-to-end 
 - **Tool Ecosystem** → Building reliable tool calling, sandbox execution, and MCP integrations
 - **Production Scale** → 344k DAU, 31% generation penetration, serving millions of creative workflows
 
-## Technical Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Go, Python |
-| **AI/ML** | LLM Agents, ReAct Pattern, Tool Calling, MCP |
-| **Backend** | Microservices, gRPC, GraphQL, Streaming APIs |
-| **Infrastructure** | K8s, Docker, DevBox, ByteDance Internal Stack |
-
-## Engineering Philosophy
-
-> "The challenge is not just model quality. It's workflow quality: execution order, tool reliability, memory fidelity, rollback safety, testability, and developer leverage."
-
-I believe in:
-- **Context as Infrastructure** - Treating context synchronization as a first-class engineering concern
-- **Agent-Native Workflows** - Codifying delivery processes so AI assistants can participate reliably
-- **Real Delivery over Demos** - Building production systems with observability, safety, and maintainability
-- **Progressive Disclosure** - Documentation and systems that reveal complexity only when needed
-
 ## GitHub Stats
 
 <p align="center">
