@@ -27,15 +27,6 @@ A one-stop AI creative platform helping users achieve creative goals end-to-end 
 - **Tool Ecosystem** → Building reliable tool calling, sandbox execution, and MCP integrations
 - **Production Scale** → 344k DAU, 31% generation penetration, serving millions of creative workflows
 
-**System Architecture:**
-```
-User Request → SSE/API Gateway → Agent Core → Context & Planning
-                                       ↓
-                    MCP Tools → Generation Services → Assets & History
-                                       ↓
-                           Streaming Response ← Client
-```
-
 ## Technical Stack
 
 | Category | Technologies |
@@ -44,7 +35,6 @@ User Request → SSE/API Gateway → Agent Core → Context & Planning
 | **AI/ML** | LLM Agents, ReAct Pattern, Tool Calling, MCP |
 | **Backend** | Microservices, gRPC, GraphQL, Streaming APIs |
 | **Infrastructure** | K8s, Docker, DevBox, ByteDance Internal Stack |
-| **Tools** | bytedcli, Argos, Fornax, Codebase MR Flow |
 
 ## Featured Projects
 
