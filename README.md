@@ -36,32 +36,6 @@ A one-stop AI creative platform helping users achieve creative goals end-to-end 
 | **Backend** | Microservices, gRPC, GraphQL, Streaming APIs |
 | **Infrastructure** | K8s, Docker, DevBox, ByteDance Internal Stack |
 
-## Featured Projects
-
-### 1. Agent Architecture Upgrade [P0]
-Modernizing Dreamina's agent core from custom Eino graphs to DeepAgent SDK capabilities.
-
-**Challenges:** Maintaining backward compatibility while enabling sandbox execution, file operations, and longer-horizon tasks.
-
-### 2. Canvas-First Product Transition
-Redesigning the creative workflow from linear chat interactions to collaborative canvas environments.
-
-**Impact:** Enabling complex multi-turn, multi-asset creative projects with persistent state.
-
-### 3. Agent Engineering Infrastructure
-Building the frameworks and patterns for reliable, observable, maintainable agent systems at scale.
-
-**Includes:** Context management, memory strategies, observability, traceability, rollback safety.
-
-## Research & Exploration
-
-I'm actively researching and experimenting with cutting-edge agent frameworks:
-
-- **OpenCode / OpenClaw** - Structured AI-assisted engineering workflows
-- **DeepAgents** - Advanced agent orchestration patterns
-- **A2A / ACP** - Agent communication protocols
-- **Codex / Nanoclaw** - Code-centric agent capabilities
-
 ## Engineering Philosophy
 
 > "The challenge is not just model quality. It's workflow quality: execution order, tool reliability, memory fidelity, rollback safety, testability, and developer leverage."
