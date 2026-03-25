@@ -1,7 +1,5 @@
 # Daniel Xing
 
-> Tech lead for Dreamina Agent at ByteDance.
-
 [![AI Agent](https://img.shields.io/badge/Focus-AI%20Agents-blueviolet)](https://)
 [![Multimodal](https://img.shields.io/badge/Domain-Multimodal%20Generation-orange)](https://)
 [![Go](https://img.shields.io/badge/Language-Go-00ADD8?logo=go)](https://)
