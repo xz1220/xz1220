@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:0891B2,100:7C3AED&height=160&section=header&text=Daniel%20Xing&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=AI%20agents%20%7C%20creative%20tools%20%7C%20personal%20systems&descAlignY=60&animation=fadeIn" alt="Daniel Xing" />
+# Hi, I'm Daniel Xing
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0891B2&center=true&vCenter=true&width=760&lines=Building+AI+agent+workflows;Designing+creative+automation+tools;Turning+real+projects+into+public+proof+of+work)](https://git.io/typing-svg)
 
@@ -37,9 +37,9 @@ Based in        Chengdu, China
 
 <table>
   <tr>
-    <td width="54%">
+    <td width="50%">
       <h3>side-hustle-skill</h3>
-      <p>A practical workflow system for solo builders, experiments, and small bets.</p>
+      <p>Practical workflows for solo builders, experiments, and small bets.</p>
       <p>
         <a href="https://github.com/xz1220/side-hustle-skill">
           <img src="https://img.shields.io/badge/View_repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
@@ -47,9 +47,9 @@ Based in        Chengdu, China
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       </p>
     </td>
-    <td width="46%">
-      <h3>Current systems</h3>
-      <p>AI agents, creative automation, personal operating loops, and public-facing project indexes.</p>
+    <td width="50%">
+      <h3>Current build direction</h3>
+      <p>Agent workflows, creative automation, life systems, and public project indexes.</p>
       <p>
         <a href="https://github.com/xz1220?tab=repositories">
           <img src="https://img.shields.io/badge/Browse_projects-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Browse projects" />
