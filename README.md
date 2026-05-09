@@ -46,29 +46,7 @@ Based in         Chengdu, China
 <table>
   <tr>
     <td width="50%">
-      <h3>startup-primer</h3>
-      <p>An open startup primer and structured learning project.</p>
-      <p>
-        <a href="https://github.com/xz1220/startup-primer">
-          <img src="https://img.shields.io/badge/View_repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
-        </a>
-        <img src="https://img.shields.io/badge/Startup-0891B2?style=for-the-badge" alt="Startup" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>life-os</h3>
-      <p>A personal operating system for goals, tasks, logs, finance snapshots, and project links.</p>
-      <p>
-        <a href="https://github.com/xz1220/life-os">
-          <img src="https://img.shields.io/badge/View_repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
-        </a>
-        <img src="https://img.shields.io/badge/Systems-7C3AED?style=for-the-badge" alt="Systems" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>AVM</h3>
+      <p><strong>AVM</strong></p>
       <p>Experiments around AI coding agent runtime and workflow interfaces.</p>
       <p>
         <a href="https://github.com/xz1220/AVM">
@@ -78,7 +56,7 @@ Based in         Chengdu, China
       </p>
     </td>
     <td width="50%">
-      <h3>side-hustle-skill</h3>
+      <p><strong>side-hustle-skill</strong></p>
       <p>Practical workflows for solo builders, experiments, and small bets.</p>
       <p>
         <a href="https://github.com/xz1220/side-hustle-skill">
