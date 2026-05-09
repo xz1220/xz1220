@@ -2,7 +2,7 @@
 
 # Hi, I'm Daniel Xing
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=680&lines=AI+Agent+Builder;Creative+Tools+%26+Automation;Personal+Systems+%26+Public+Proof+of+Work)](https://git.io/typing-svg)
+**AI agent builder | Creative tools and automation | Personal systems and public proof of work**
 
 [![GitHub followers](https://img.shields.io/github/followers/xz1220?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/xz1220)
 [![GitHub stars](https://img.shields.io/github/stars/xz1220?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/xz1220)
@@ -35,12 +35,10 @@ Based in        Chengdu, China
 
 ## Public Work
 
-<div align="center">
-
-[![side-hustle-skill](https://github-readme-stats.vercel.app/api/pin/?username=xz1220&repo=side-hustle-skill&theme=tokyonight&hide_border=true)](https://github.com/xz1220/side-hustle-skill)
-[![DIG-Data-Annotation-Platform](https://github-readme-stats.vercel.app/api/pin/?username=xz1220&repo=DIG-Data-Annotation-Platform&theme=tokyonight&hide_border=true)](https://github.com/xz1220/DIG-Data-Annotation-Platform)
-
-</div>
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [side-hustle-skill](https://github.com/xz1220/side-hustle-skill) | A practical skill and workflow system for solo builders. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [DIG-Data-Annotation-Platform](https://github.com/xz1220/DIG-Data-Annotation-Platform) | Data annotation platform work from earlier product and engineering practice. | ![Platform](https://img.shields.io/badge/Data_Annotation-0891B2?style=flat-square) |
 
 ---
 
@@ -48,8 +46,8 @@ Based in        Chengdu, China
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xz1220&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xz1220&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+[![GitHub profile](https://img.shields.io/badge/GitHub_Profile-xz1220-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xz1220)
+[![Repositories](https://img.shields.io/badge/Public_Repos-Building_in_public-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xz1220?tab=repositories)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xz1220&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
