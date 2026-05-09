@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Daniel Xing
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:0891B2,100:7C3AED&height=160&section=header&text=Daniel%20Xing&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=AI%20agents%20%7C%20creative%20tools%20%7C%20personal%20systems&descAlignY=60&animation=fadeIn" alt="Daniel Xing" />
 
-**AI agent builder | Creative tools and automation | Personal systems and public proof of work**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0891B2&center=true&vCenter=true&width=760&lines=Building+AI+agent+workflows;Designing+creative+automation+tools;Turning+real+projects+into+public+proof+of+work)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/xz1220?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/xz1220)
-[![GitHub stars](https://img.shields.io/github/stars/xz1220?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/xz1220)
-[![Profile views](https://komarev.com/ghpvc/?username=xz1220&style=for-the-badge&color=blueviolet)](https://github.com/xz1220)
+[![GitHub followers](https://img.shields.io/github/followers/xz1220?logo=github&style=for-the-badge&color=0891b2&labelColor=111827)](https://github.com/xz1220)
+[![GitHub stars](https://img.shields.io/github/stars/xz1220?style=for-the-badge&logo=github&color=7c3aed&labelColor=111827)](https://github.com/xz1220)
+[![Profile views](https://komarev.com/ghpvc/?username=xz1220&style=for-the-badge&color=0891b2)](https://github.com/xz1220)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ```text
 Building        AI agents and creative tools that help people make things
-Exploring       personal systems, build in public, and public proof of work
+Exploring       personal systems, build in public, and proof of work
 Working with    Go, Python, automation, and agent workflows
 Based in        Chengdu, China
 ```
@@ -35,19 +35,35 @@ Based in        Chengdu, China
 
 ## Public Work
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [side-hustle-skill](https://github.com/xz1220/side-hustle-skill) | A practical skill and workflow system for solo builders. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [DIG-Data-Annotation-Platform](https://github.com/xz1220/DIG-Data-Annotation-Platform) | Data annotation platform work from earlier product and engineering practice. | ![Platform](https://img.shields.io/badge/Data_Annotation-0891B2?style=flat-square) |
+<table>
+  <tr>
+    <td width="54%">
+      <h3>side-hustle-skill</h3>
+      <p>A practical workflow system for solo builders, experiments, and small bets.</p>
+      <p>
+        <a href="https://github.com/xz1220/side-hustle-skill">
+          <img src="https://img.shields.io/badge/View_repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
+        </a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      </p>
+    </td>
+    <td width="46%">
+      <h3>Current systems</h3>
+      <p>AI agents, creative automation, personal operating loops, and public-facing project indexes.</p>
+      <p>
+        <a href="https://github.com/xz1220?tab=repositories">
+          <img src="https://img.shields.io/badge/Browse_projects-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Browse projects" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Activity
+## Activity
 
 <div align="center">
-
-[![GitHub profile](https://img.shields.io/badge/GitHub_Profile-xz1220-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xz1220)
-[![Repositories](https://img.shields.io/badge/Public_Repos-Building_in_public-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xz1220?tab=repositories)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xz1220&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -80,7 +96,7 @@ GitHub profile   turning real projects into credible public signals
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xz1220)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:0891B2,100:111827&height=96&section=footer&animation=twinkling" alt="footer wave" />
 
 <sub>Peace and love. Build quietly, ship clearly.</sub>
 
