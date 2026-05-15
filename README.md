@@ -80,6 +80,16 @@ Based in         Chengdu, China
 
 ---
 
+## AI Coding Usage
+
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/xz1220/svg?sort=cost&compact=1)](https://tokscale.ai/u/xz1220)
+
+</div>
+
+---
+
 ## Contribution Snake
 
 <div align="center">
