@@ -8,4 +8,6 @@ I'm based in Shenzhen, China, and occasionally in Shanghai.
 
 - 🧭 I'm exploring multi-agent systems, AI products, and knowledge work—especially how to make agent systems reliable enough for solo builders to use in production.
 
-[Website](https://xz1220.github.io/) · [X / Twitter](https://x.com/DanielsCabin) · [Email](mailto:danielxing1@163.com) · [Zhihu](https://www.zhihu.com/people/xz1220) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/655488ff00000000080023a0) · [WeChat: Xingzheng-daniel](./assets/wechat-qr.jpg)
+[Website](https://xz1220.github.io/) · [X / Twitter](https://x.com/DanielsCabin) · [Email](mailto:danielxing1@163.com) · [Zhihu](https://www.zhihu.com/people/xz1220) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/655488ff00000000080023a0) · WeChat: `Xingzheng-daniel`
+
+<img src="./assets/wechat-qr.jpg" alt="WeChat QR code for Daniel Xing" width="280" />
