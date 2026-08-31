@@ -10,4 +10,8 @@ I'm based in Shenzhen, China, and occasionally in Shanghai.
 
 [Website](https://xz1220.github.io/) · [X / Twitter](https://x.com/DanielsCabin) · [Email](mailto:danielxing1@163.com) · [Zhihu](https://www.zhihu.com/people/xz1220) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/655488ff00000000080023a0) · WeChat: `Xingzheng-daniel`
 
-<img src="./assets/wechat-qr.jpg" alt="WeChat QR code for Daniel Xing" width="280" />
+<p>
+  <a href="./assets/wechat-qr.jpg"><img src="./assets/wechat-qr.jpg" alt="WeChat QR code for Daniel Xing" width="280" /></a>
+  &nbsp;&nbsp;
+  <a href="./assets/xiaohongshu-card.jpg"><img src="./assets/xiaohongshu-card.jpg" alt="Xiaohongshu profile card and QR code for Daniel Xing" width="280" /></a>
+</p>
