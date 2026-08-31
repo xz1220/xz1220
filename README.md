@@ -1,111 +1,11 @@
-<div align="center">
+### Hi, I'm Daniel 👋
 
-# Hi, I'm Daniel Xing
+I'm a builder. I've spent the past two years building AI agents and the infrastructure around them. These days, I build practical agent systems and interesting stuff—things that are useful, experimental, or both.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0891B2&center=true&vCenter=true&width=760&lines=Building+AI+coding+agent+workflows;Designing+personal+operating+systems;Turning+research+into+public+projects)](https://git.io/typing-svg)
+I'm based in Shenzhen, China, and occasionally in Shanghai.
 
-[![GitHub followers](https://img.shields.io/github/followers/xz1220?logo=github&style=for-the-badge&color=0891b2&labelColor=111827)](https://github.com/xz1220)
-[![GitHub stars](https://img.shields.io/github/stars/xz1220?style=for-the-badge&logo=github&color=7c3aed&labelColor=111827)](https://github.com/xz1220)
-[![Profile views](https://komarev.com/ghpvc/?username=xz1220&style=for-the-badge&color=0891b2)](https://github.com/xz1220)
+- 🔭 I'm currently building [Open Dynamic Workflows](https://github.com/xz1220/open-dynamic-workflows)—a practical runtime and workflow system for AI coding agents. It makes Claude Code-style dynamic workflows portable across Codex, Claude Code, Gemini, Qwen, Kimi, and other coding-agent CLIs.
 
-</div>
+- 🧭 I'm exploring multi-agent systems, AI products, and knowledge work—especially how to make agent systems reliable enough for solo builders to use in production.
 
----
-
-## Tech Stack
-
-<div align="center">
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=white)
-![AI Coding](https://img.shields.io/badge/AI_Coding-7C3AED?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-0891B2?style=for-the-badge&logo=githubactions&logoColor=white)
-![Knowledge Systems](https://img.shields.io/badge/Knowledge_Systems-334155?style=for-the-badge&logo=obsidian&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-I build small systems around AI agents, automation, knowledge work, and startup learning.
-
----
-
-## Current Focus
-
-```text
-Active project   startup-primer: an open startup primer and learning system
-Building         AI coding agents, agent workflows, and automation tools
-Researching      multi-agent systems, AI product ideas, and investing
-Operating        life-os, xz-wiki, and project indexes as personal infrastructure
-Based in         Chengdu, China
-```
-
----
-
-## Public Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <p><strong>AVM</strong></p>
-      <p>Experiments around AI coding agent runtime and workflow interfaces.</p>
-      <p>
-        <a href="https://github.com/xz1220/AVM">
-          <img src="https://img.shields.io/badge/View_repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
-        </a>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-      </p>
-    </td>
-    <td width="50%">
-      <p><strong>side-hustle-skill</strong></p>
-      <p>Practical workflows for solo builders, experiments, and small bets.</p>
-      <p>
-        <a href="https://github.com/xz1220/side-hustle-skill">
-          <img src="https://img.shields.io/badge/View_repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
-        </a>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xz1220&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## AI Coding Usage
-
-<div align="center">
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/xz1220/svg?sort=cost&compact=1)](https://tokscale.ai/u/xz1220)
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/xz1220/xz1220/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xz1220)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:0891B2,100:111827&height=96&section=footer&animation=twinkling" alt="footer wave" />
-
-<sub>Peace and love. Build quietly, ship clearly.</sub>
-
-</div>
+[Website](https://xz1220.github.io/) · [X / Twitter](https://x.com/DanielsCabin) · [Email](mailto:danielxing1@163.com) · [Zhihu](https://www.zhihu.com/people/xz1220) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/655488ff00000000080023a0) · [WeChat: Xingzheng-daniel](./assets/wechat-qr.jpg)
