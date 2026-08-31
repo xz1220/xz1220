@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel 👋
 
-I'm a builder. I've spent the past two years building AI agents and the infrastructure around them. These days, I build practical agent systems and interesting stuff—things that are useful, experimental, or both.
+I'm a builder working on AI agents and the infrastructure around them.
 
 I'm based in Shenzhen, China, and occasionally in Shanghai.
 
