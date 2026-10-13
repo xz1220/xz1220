@@ -1,11 +1,21 @@
-### Hi, I'm Daniel 👋
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-mobile.svg" />
+  <img src="./assets/profile.svg" width="960" alt="Daniel Xing — 27, AI Engineer · ex-ByteDance. Linux. Codex, Kimi, VS Code. Go, Python, TypeScript. AI, Cloud Native, Backend, Frontend." />
+</picture>
 
-I'm a builder working on AI agents and the infrastructure around them.
+<details>
+<summary>Text version</summary>
 
-I'm based in Shenzhen, China, and occasionally in Shanghai.
+```text
+Name:       Daniel Xing
+Age:        27
+Work:       AI Engineer · ex-ByteDance
+OS:         Linux
+Editor:     Codex, Kimi, VS Code
+Languages:  Go, Python, TypeScript
+Skills:     AI, Cloud Native, Backend, Frontend
+```
 
-- 🔭 I'm currently building [Open Dynamic Workflows](https://github.com/xz1220/open-dynamic-workflows)—a practical runtime and workflow system for AI coding agents. It makes Claude Code-style dynamic workflows portable across Codex, Claude Code, Gemini, Qwen, Kimi, and other coding-agent CLIs.
-
-- 🧭 I'm exploring multi-agent systems, AI products, and knowledge work—especially how to make agent systems reliable enough for solo builders to use in production.
+</details>
 
 [Website](https://xz1220.github.io/) · [X / Twitter](https://x.com/DanielsCabin) · [Email](mailto:danielxing1@163.com) · [Zhihu](https://www.zhihu.com/people/xz1220) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/655488ff00000000080023a0) · WeChat: `Xingzheng-daniel`
