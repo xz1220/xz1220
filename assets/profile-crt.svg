@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 504" role="img" aria-labelledby="title desc">
+<title id="title">Daniel Xing — CRT Profile</title>
+<desc id="desc">Name: Daniel Xing; Age: 27; Work: AI Engineer · ex-ByteDance; OS: Linux; Editor: Codex, Kimi, VS Code; Languages: Go, Python, TypeScript; Skills: AI, Cloud Native, Backend, Frontend</desc>
+<style>
+text{font-kerning:normal}
+.command-cursor{display:none}
+.glass-light{opacity:.12}
+.scan{animation:sweep 8s linear infinite}
+@keyframes sweep{from{transform:translateY(-95px)}to{transform:translateY(504px)}}
+@media(prefers-reduced-motion:reduce){.scan{animation:none;display:none}}
+</style>
+<rect width="960" height="504" fill="#08110b"/>
+<defs>
+<radialGradient id="glass"><stop stop-color="#173721"/><stop offset="1" stop-color="#08140c"/></radialGradient>
+<radialGradient id="glow"><stop stop-color="#91d986" stop-opacity=".16"/><stop offset="1" stop-color="#91d986" stop-opacity="0"/></radialGradient>
+<pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".18"/></pattern>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#b5ffb4" stop-opacity="0"/><stop offset=".82" stop-color="#b5ffb4" stop-opacity=".075"/><stop offset="1" stop-color="#b5ffb4" stop-opacity="0"/></linearGradient>
+<filter id="phosphor" x="-10%" y="-20%" width="120%" height="140%"><feGaussianBlur stdDeviation=".35" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="screen"><rect x="14" y="14" width="932" height="476" rx="24"/></clipPath>
+<clipPath id="command"><rect class="command-reveal" x="209.744" y="30" width="73.63799999999999" height="28"/></clipPath>
+</defs>
+<rect x="6" y="6" width="948" height="492" rx="30" fill="#071009" stroke="#1f3020" stroke-width="10"/>
+<rect x="14" y="14" width="932" height="476" rx="24" fill="url(#glass)"/>
+<rect class="glass-light" x="14" y="14" width="932" height="476" rx="24" fill="url(#glow)"/>
+<g filter="url(#phosphor)">
+<text x="46" y="52" fill="#a9e898" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="17" textLength="153.51" lengthAdjust="spacingAndGlyphs">xz1220@linux:~$ </text>
+<g clip-path="url(#command)"><text x="209.744" y="52" fill="#a9e898" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="17" textLength="71.63799999999999" lengthAdjust="spacingAndGlyphs">profile</text></g>
+<rect class="command-cursor" x="209.744" y="37" width="9.86" height="17" fill="#a9e898"/>
+<path d="M46 78H914" stroke="#487143" stroke-opacity=".55"/>
+<g class="profile-row" style="--delay:1.05s">
+<text x="46" y="165" fill="#88c578" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="18" >Name:</text>
+<text x="256" y="165" fill="#b1e89c" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="20" >Daniel Xing</text>
+</g>
+<g class="profile-row" style="--delay:1.23s">
+<text x="46" y="208" fill="#88c578" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="18" >Age:</text>
+<text x="256" y="208" fill="#b1e89c" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="20" >27</text>
+</g>
+<g class="profile-row" style="--delay:1.41s">
+<text x="46" y="251" fill="#88c578" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="18" >Work:</text>
+<text x="256" y="251" fill="#b1e89c" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="20" >AI Engineer · ex-ByteDance</text>
+</g>
+<g class="profile-row" style="--delay:1.59s">
+<text x="46" y="294" fill="#88c578" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="18" >OS:</text>
+<text x="256" y="294" fill="#b1e89c" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="20" >Linux</text>
+</g>
+<g class="profile-row" style="--delay:1.77s">
+<text x="46" y="337" fill="#88c578" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="18" >Editor:</text>
+<text x="256" y="337" fill="#b1e89c" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="20" >Codex, Kimi, VS Code</text>
+</g>
+<g class="profile-row" style="--delay:1.95s">
+<text x="46" y="380" fill="#88c578" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="18" >Languages:</text>
+<text x="256" y="380" fill="#b1e89c" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="20" >Go, Python, TypeScript</text>
+</g>
+<g class="profile-row" style="--delay:2.13s">
+<text x="46" y="423" fill="#88c578" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="18" >Skills:</text>
+<text x="256" y="423" fill="#b1e89c" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="20" >AI, Cloud Native, Backend, Frontend</text>
+</g>
+<g class="prompt"><text x="46" y="469" fill="#a9e898" font-family="Menlo,Consolas,Liberation Mono,monospace" font-size="17" >&gt;</text><rect class="idle-cursor" x="69" y="455" width="10" height="17" fill="#a9e898"/></g>
+</g>
+<g clip-path="url(#screen)"><rect width="960" height="504" fill="url(#scanlines)"/><g class="scan"><rect x="14" width="932" height="95" fill="url(#beam)"/></g></g>
+</svg>

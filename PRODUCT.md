@@ -10,17 +10,17 @@ Visitors to Daniel Xing's GitHub profile should be able to read his personal det
 
 ## Confirmed direction
 
-The user selected the original light Personal Notes concept: white background, red labels, a serif greeting and fine separators. A small NERV emblem and restrained geometric motion provide the requested Evangelion reference. Preserve that direction when refining the typography.
+The user selected the green CRT terminal profile: a dark green screen, phosphor-green monospace text, fine scanlines and a rounded monitor frame. All text and the bottom cursor are visible and stationary from the first frame. The only animation is a light band scanning from top to bottom on an eight-second loop.
 
 Show only Name, Age, Work, OS, Editor, Languages and Skills, followed by the existing contact links. Do not add project summaries or a duplicate text section.
 
 ## Design principles
 
 - Make field labels as easy to read as their values.
-- Keep a coherent serif/sans pairing and use weight and color for hierarchy.
+- Use consistent monospace typography, with clear contrast between labels and values.
 - Judge sizing at GitHub's rendered column width, not only the SVG's natural size.
-- Keep motion subtle, in the divider and geometric accents. Let the content settle for reading.
-- Omit the Personal Notes heading; keep the typography slightly smaller than the large-label revision.
+- Animate only the top-to-bottom scanning light. Do not add typing, row entrance, blinking or pulsing effects.
+- Keep the terminal prompt and approved seven-field layout. Do not reintroduce the Personal Notes heading.
 
 ## Accessibility
 
